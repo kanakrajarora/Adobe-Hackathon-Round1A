@@ -73,7 +73,7 @@ For each PDF in `input/`, a corresponding `.json` file will be generated in `out
 
 You may test using dummy PDFs:
 
-Make sure they are placed in the `input/` directory before running
+Make sure they are placed in the `input/` directory before running.
 
 ---
 
