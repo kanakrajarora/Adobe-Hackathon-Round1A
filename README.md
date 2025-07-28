@@ -43,7 +43,7 @@ From the root of the project directory, run:
 docker build -t mysolutionname:somerandomidentifier .
 ```
 
-> Replace `mysolutionname` and `somerandomidentifier` with your own tag if needed
+> Replace `mysolutionname` and `somerandomidentifier` with your own tag if needed.
 
 ---
 
