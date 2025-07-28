@@ -82,5 +82,3 @@ Make sure they are placed in the `input/` directory before running.
 - Do **not** run without PDF files in the `input/` directory.
 - Output files will **only** be created if valid PDFs are present.
 - The script will skip processing if no files are detected.
-
-```
