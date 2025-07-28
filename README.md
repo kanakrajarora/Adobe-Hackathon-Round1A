@@ -1,4 +1,4 @@
-```markdown
+
 # Round1A – Document Processing with Docker
 
 This repository contains a Python-based solution to process PDF documents into structured JSON format. The entire solution is designed to run inside a secure, network-isolated Docker container.
